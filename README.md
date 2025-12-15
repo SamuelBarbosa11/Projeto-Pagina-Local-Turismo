@@ -1,1 +1,1 @@
-Essa é minha versão do desafio-projeto da página "Local Turismo" da Rocketseat, orientado pelo figma da RCKT
+Essa é um projeto meu que venho trabalhando de uma página para Turismo Local de uma cidade chamada Busan na Corea do Sul, a ideia era testar minhas habilidades de HTML e CSS, contribuindo para minha formação Full Stack
