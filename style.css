@@ -22,7 +22,12 @@ img {
 }
 
 #page {
-    margin: 88px 80px;
+    max-width: 1120px;
+    margin: auto;
+}
+
+#titulo {
+    margin-top: 88px;
 }
 
 .divider {
