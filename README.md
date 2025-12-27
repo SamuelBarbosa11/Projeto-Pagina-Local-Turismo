@@ -1,1 +1,6 @@
-Essa é um projeto meu que venho trabalhando de uma página para Turismo Local de uma cidade chamada Busan na Corea do Sul, a ideia era testar minhas habilidades de HTML e CSS, contribuindo para minha formação Full Stack
+![Uploading Local Turistico.jpg…]()
+
+🗺️ Conheça Busan – Página Informativa
+
+Este projeto consiste em uma página informativa sobre a cidade de Busan, na Coreia do Sul, desenvolvida com o objetivo de praticar HTML e CSS.
+A proposta foi construir toda a estrutura utilizando fluxo natural do HTML, com elementos de bloco, espaçamentos, margens e estilizações tradicionais do CSS.
