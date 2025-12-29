@@ -1,4 +1,4 @@
-![Uploading Local Turistico.jpg…]()
+![Uploading Local Turismo Busan.JPG…]()
 
 🗺️ Conheça Busan – Página Informativa
 
